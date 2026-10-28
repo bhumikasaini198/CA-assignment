@@ -1,0 +1,15 @@
+a) +46 + (+29)
+First operand : 00101110 ( 46 )
+Second operand: 00011101 ( 29 )
+Operation     : +
+Result (8-bit): 01101011
+Decimal result: 107
+Overflow      : No
+
+b) (-48) - (-23)
+First operand : 11010000 ( -48 )
+Second operand: 11101001 ( -23 )
+Operation     : -
+Result (8-bit): 11100111
+Decimal result: -25
+Overflow      : No
